@@ -1,3 +1,6 @@
+Music themed - working with creating boxes (not modals) to present dB enteries. 
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
